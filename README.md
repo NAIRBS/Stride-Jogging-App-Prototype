@@ -1,6 +1,6 @@
 # Welcome to Stride Jogging App Prototype Repository
 
-This was originally an academic project to develop a mobile application.
+This was originally an academic project to develop a mobile application.<br>
 Although this was completed quite some time ago, Stride originally had these features (the dependencies and APIs have expired...)
 
 * Google Map API -> Geofencing and Location tracking
